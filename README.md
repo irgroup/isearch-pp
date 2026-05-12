@@ -5,7 +5,7 @@
 
 - **Zenodo archive with updated test collection resources:** https://zenodo.org/records/20143498
 - **ir_datasets integration:** https://github.com/irgroup/ir-datasets-isearch
-- **A tutorial that demonstrates how to use the ir_datasets integration:** https://github.com/irgroup/isearch-tutorial
+- **A tutorial of how to use the ir_datasets integration:** https://github.com/irgroup/isearch-tutorial
 - **General statistics about licenses in iSearch:** https://github.com/irgroup/isearch-statistics
 - **Code used for the pooling of the documents**: https://github.com/irgroup/isearch-pooling
 
