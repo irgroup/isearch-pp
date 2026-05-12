@@ -3,7 +3,7 @@
 > [!NOTE]
 > This repository is a reference landing page of curated resources:
 
-- **Zenodo archive with updated test collection resources:** https://zenodo.org/
+- **Zenodo archive with updated test collection resources:** https://zenodo.org/records/20143498
 - **ir_datasets integration:** https://github.com/irgroup/ir-datasets-isearch
 - **A tutorial that demonstrates how to use the ir_datasets integration:** https://github.com/irgroup/isearch-tutorial
 - **General statistics about licenses in iSearch:** https://github.com/irgroup/isearch-statistics
