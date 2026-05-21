@@ -4,6 +4,7 @@
 > This repository is a reference landing page of curated resources:
 
 - **Zenodo archive with updated test collection resources:** https://zenodo.org/records/20143498
+- **Zenodo archive of the open subset:** https://zenodo.org/records/20303126
 - **ir_datasets integration:** https://github.com/irgroup/ir-datasets-isearch
 - **A tutorial of how to use the ir_datasets integration:** https://github.com/irgroup/isearch-tutorial
 - **General statistics about licenses in iSearch:** https://github.com/irgroup/isearch-statistics
